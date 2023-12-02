@@ -1,0 +1,100 @@
+[
+    {
+        "Email": "fatima_moh@gmail.com",
+        "ApplicationDate": "2023-09-12",
+        "CoverLetter": "I would love to work in Kgroup IT Help Desk",
+        "CompanyName": "Kgroup",
+        "Title": "IT Help Desk"
+    },
+    {
+        "Email": "leila.kh@gmail.com",
+        "ApplicationDate": "2023-10-02",
+        "CoverLetter": "Please hire me",
+        "CompanyName": "Zewail City",
+        "Title": "Senior Backend Developer - Part Time"
+    },
+    {
+        "Email": "ali.rah@gmail.com",
+        "ApplicationDate": "2023-01-22",
+        "CoverLetter": "I want to be employed",
+        "CompanyName": "Technotown",
+        "Title": "Odoo Developer"
+    },
+    {
+        "Email": "hana.saad@gmail.com",
+        "ApplicationDate": "2023-12-01",
+        "CoverLetter": "I love working as an IT Operation Manager",
+        "CompanyName": "Kgroup",
+        "Title": "IT Operations Manager"
+    },
+    {
+        "Email": "a.khalil@gmail.com",
+        "ApplicationDate": "2023-07-15",
+        "CoverLetter": "I am a PHP expert",
+        "CompanyName": "Safa Soft",
+        "Title": "Senior PHP Developer (Laravel)"
+    },
+    {
+        "Email": "k.ibrahim@gmail.com",
+        "ApplicationDate": "2023-08-02",
+        "CoverLetter": "I order from breadfast on the daily so I want to work there",
+        "CompanyName": "Breadfast",
+        "Title": "Quality Control Inspector"
+    },
+    {
+        "Email": "n.said@gmail.com",
+        "ApplicationDate": "2023-10-11",
+        "CoverLetter": "I cannot do this anymore",
+        "CompanyName": "Smart Cards application",
+        "Title": "Senior Database Administrator"
+    },
+    {
+        "Email": "omar.f@gmail.com",
+        "ApplicationDate": "2023-11-01",
+        "CoverLetter": "I need to find a job",
+        "CompanyName": "Cepack",
+        "Title": "Technical Support Specialist-Cairo"
+    },
+    {
+        "Email": "sara_mah@gmail.com",
+        "ApplicationDate": "2023-11-01",
+        "CoverLetter": "I am trying to fill the cover letter data",
+        "CompanyName": "Cepack",
+        "Title": "Technical Support Specialist"
+    },
+    {
+        "Email": "leila.ome@gmail.com",
+        "ApplicationDate": "2023-10-05",
+        "CoverLetter": "I would love to join the workforce",
+        "CompanyName": "Informatique Education",
+        "Title": "Senior Front End Developer"
+    },
+    {
+        "Email": "amira.ali@gmail.com",
+        "ApplicationDate": "2023-05-21",
+        "CoverLetter": "Imagine this is a nice cover letter",
+        "CompanyName": "3D Diagnostix",
+        "Title": "Senior Back-End Developer (Node Js)"
+    },
+    {
+        "Email": "m.hassan@gmail.com",
+        "ApplicationDate": "2023-10-22",
+        "CoverLetter": "bla bla bla bla bla bla bla bla",
+        "CompanyName": "Confidential",
+        "Title": "IT Help Desk"
+    },
+    {
+        "Email": "yasmin.must@gmail.com",
+        "ApplicationDate": "2022-12-31",
+        "CoverLetter": "I am a very good engineer",
+        "CompanyName": "conveyou",
+        "Title": "Junior Application tester and quality control"
+    },
+    {
+        "Email": "i.hamid@gmail.com",
+        "ApplicationDate": "2023-01-22",
+        "CoverLetter": "Front end is fun",
+        "CompanyName": "etmana",
+        "Title": "Senior Front End Developer Angular"
+    }
+]

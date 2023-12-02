@@ -1,0 +1,397 @@
+[
+    {
+        "Email": "fatima_moh@gmail.com",
+        "Username": "Fatima95",
+        "Gender": "F",
+        "Birthdate": "7/21/1995",
+        "GPA": "3.9",
+        "SkillName": [
+            "information technology (it)",
+            "computer science",
+            "engineering",
+            "information technology (it)",
+            "computer science",
+            "engineering"
+        ]
+    },
+    {
+        "Email": "amira.ali@gmail.com",
+        "Username": "AmiraAli92",
+        "Gender": "F",
+        "Birthdate": "1/9/1992",
+        "GPA": "3.2",
+        "SkillName": [
+            "software engineering ",
+            "software engineering "
+        ]
+    },
+    {
+        "Email": "k.ibrahim@gmail.com",
+        "Username": "KhaledIbrahim98",
+        "Gender": "M",
+        "Birthdate": "5/27/1998",
+        "GPA": "3.7",
+        "SkillName": [
+            "dhcp",
+            "security engineering",
+            "network security",
+            "web development",
+            "business analysis",
+            "backlog",
+            "microsoft office suite",
+            "dhcp",
+            "security engineering",
+            "network security",
+            "web development",
+            "business analysis",
+            "backlog",
+            "microsoft office suite"
+        ]
+    },
+    {
+        "Email": "leila.kh@gmail.com",
+        "Username": "Leila_Kh93",
+        "Gender": "F",
+        "Birthdate": "9/18/1993",
+        "GPA": "3.1",
+        "SkillName": [
+            "computer",
+            "administration",
+            "it",
+            "help desk",
+            "computer",
+            "administration",
+            "it",
+            "help desk"
+        ]
+    },
+    {
+        "Email": "omar.f@gmail.com",
+        "Username": "OmarF22",
+        "Gender": "M",
+        "Birthdate": "12/22/1986",
+        "GPA": "2.5",
+        "SkillName": [
+            "c#",
+            "c#"
+        ]
+    },
+    {
+        "Email": "sara_mah@gmail.com",
+        "Username": "Sara96",
+        "Gender": "F",
+        "Birthdate": "6/10/1996",
+        "GPA": "3.6",
+        "SkillName": [
+            "python",
+            "html",
+            "python",
+            "html"
+        ]
+    },
+    {
+        "Email": "m.hassan@gmail.com",
+        "Username": "M_Hassan89",
+        "Gender": "M",
+        "Birthdate": "10/12/1989",
+        "GPA": "3.4",
+        "SkillName": [
+            "javascript",
+            "xml",
+            "css",
+            "linux",
+            "javascript",
+            "xml",
+            "css",
+            "linux"
+        ]
+    },
+    {
+        "Email": "ali.rah@gmail.com",
+        "Username": "AliRah94",
+        "Gender": "M",
+        "Birthdate": "8/3/1994",
+        "GPA": "3",
+        "SkillName": [
+            "programming",
+            "information technology (it)",
+            "computer science",
+            "help desk",
+            "programming",
+            "information technology (it)",
+            "computer science",
+            "help desk"
+        ]
+    },
+    {
+        "Email": "leila.ome@gmail.com",
+        "Username": "LeilaOme99",
+        "Gender": "F",
+        "Birthdate": "1/28/1999",
+        "GPA": "2.7",
+        "SkillName": [
+            "c#",
+            "html",
+            "python",
+            "c#",
+            "html",
+            "python"
+        ]
+    },
+    {
+        "Email": "yasmin.must@gmail.com",
+        "Username": "YasminMust90",
+        "Gender": "F",
+        "Birthdate": "4/15/1990",
+        "GPA": "3.2",
+        "SkillName": [
+            "ccna",
+            "cloud computing",
+            "ccna",
+            "cloud computing"
+        ]
+    },
+    {
+        "Email": "i.hamid@gmail.com",
+        "Username": "I_Hamid95",
+        "Gender": "M",
+        "Birthdate": "6/21/1995",
+        "GPA": "3.9",
+        "SkillName": [
+            "ubuntu",
+            "python",
+            "html",
+            "ubuntu",
+            "python",
+            "html"
+        ]
+    },
+    {
+        "Email": "hana.saad@gmail.com",
+        "Username": "HanaSaad88",
+        "Gender": "F",
+        "Birthdate": "10/4/1988",
+        "GPA": "2.6",
+        "SkillName": [
+            "sql",
+            "back end",
+            "sql",
+            "back end"
+        ]
+    },
+    {
+        "Email": "n.said@gmail.com",
+        "Username": "NabilSaid92",
+        "Gender": "M",
+        "Birthdate": "2/9/1992",
+        "GPA": "3.5",
+        "SkillName": [
+            "communication skills",
+            "microsoft office",
+            "communication skills",
+            "microsoft office"
+        ]
+    },
+    {
+        "Email": "a.khalil@gmail.com",
+        "Username": "A_Khalil98",
+        "Gender": "F",
+        "Birthdate": "7/27/1998",
+        "GPA": "3.8",
+        "SkillName": [
+            "engineering",
+            "computer",
+            "engineering",
+            "computer"
+        ]
+    },
+    {
+        "Email": "hassan.hus@gmail.com",
+        "Username": "Hassan_Hus93",
+        "Gender": "M",
+        "Birthdate": "9/14/1993",
+        "GPA": "2.8"
+    },
+    {
+        "Email": "y.rahim@gmail.com",
+        "Username": "YaraRahim97",
+        "Gender": "F",
+        "Birthdate": "3/18/1997",
+        "GPA": "3.4"
+    },
+    {
+        "Email": "s.taha@gmail.com",
+        "Username": "SamirTaha91",
+        "Gender": "M",
+        "Birthdate": "5/5/1991",
+        "GPA": "3.1"
+    },
+    {
+        "Email": "r.hakim@gmail.com",
+        "Username": "RanaHakim96",
+        "Gender": "F",
+        "Birthdate": "8/19/1996",
+        "GPA": "3.7"
+    },
+    {
+        "Email": "n.salah@gmail.com",
+        "Username": "NadiaSalah89",
+        "Gender": "F",
+        "Birthdate": "11/15/1989",
+        "GPA": "3.3"
+    },
+    {
+        "Email": "m.mohamad@gmail.com",
+        "Username": "Mohammed94",
+        "Gender": "M",
+        "Birthdate": "12/25/1994",
+        "GPA": "3.5"
+    },
+    {
+        "Email": "leila.atiya@gmail.com",
+        "Username": "LeilaAtiya90",
+        "Gender": "F",
+        "Birthdate": "6/10/1990",
+        "GPA": "3.4"
+    },
+    {
+        "Email": "k.hamadi@gmail.com",
+        "Username": "KhaledHamadi95",
+        "Gender": "M",
+        "Birthdate": "9/5/1995",
+        "GPA": "3"
+    },
+    {
+        "Email": "a.fadel@gmail.com",
+        "Username": "AmiraFadel88",
+        "Gender": "F",
+        "Birthdate": "11/20/1988",
+        "GPA": "2.8"
+    },
+    {
+        "Email": "y.najjar@gmail.com",
+        "Username": "Y_Najjar92",
+        "Gender": "M",
+        "Birthdate": "1/15/1992",
+        "GPA": "3.7"
+    },
+    {
+        "Email": "samira.k@gmail.com",
+        "Username": "Samira98",
+        "Gender": "F",
+        "Birthdate": "2/10/1998",
+        "GPA": "3.1"
+    },
+    {
+        "Email": "o.hamzeh@gmail.com",
+        "Username": "OmarHamzeh93",
+        "Gender": "M",
+        "Birthdate": "3/20/1993",
+        "GPA": "2.5"
+    },
+    {
+        "Email": "h.khouri@gmail.com",
+        "Username": "HayaKhouri97",
+        "Gender": "F",
+        "Birthdate": "4/25/1997",
+        "GPA": "3.8"
+    },
+    {
+        "Email": "nidal.khour@gmail.com",
+        "Username": "Nidal.91",
+        "Gender": "M",
+        "Birthdate": "5/30/1991",
+        "GPA": "2.9"
+    },
+    {
+        "Email": "f.kazan@gmail.com",
+        "Username": "Farah__96",
+        "Gender": "F",
+        "Birthdate": "7/1/1996",
+        "GPA": "3.6"
+    },
+    {
+        "Email": "m.salim@gmail.com",
+        "Username": "Mohammed99",
+        "Gender": "M",
+        "Birthdate": "8/5/1989",
+        "GPA": "3.4"
+    },
+    {
+        "Email": "l.nasser@gmail.com",
+        "Username": "Lina_22",
+        "Gender": "F",
+        "Birthdate": "9/10/1994",
+        "GPA": "3"
+    },
+    {
+        "Email": "z.sabbagh@gmail.com",
+        "Username": "Ziad99",
+        "Gender": "M",
+        "Birthdate": "10/15/1999",
+        "GPA": "2.7"
+    },
+    {
+        "Email": "l.hussein@gmail.com",
+        "Username": "Lara90",
+        "Gender": "F",
+        "Birthdate": "11/20/1990",
+        "GPA": "3.2"
+    },
+    {
+        "Email": "adnan.el@gmail.com",
+        "Username": "Adnan_E95",
+        "Gender": "M",
+        "Birthdate": "12/25/1995",
+        "GPA": "3.6"
+    },
+    {
+        "Email": "salma.tawf@gmail.com",
+        "Username": "Salma88",
+        "Gender": "F",
+        "Birthdate": "1/30/1988",
+        "GPA": "2.8"
+    },
+    {
+        "Email": "jameela.q@gmail.com",
+        "Username": "Jameela_Q92",
+        "Gender": "M",
+        "Birthdate": "2/4/1992",
+        "GPA": "3.5"
+    },
+    {
+        "Email": "issam.m@gmail.com",
+        "Username": "Issam_M98",
+        "Gender": "M",
+        "Birthdate": "3/11/1998",
+        "GPA": "3.9"
+    },
+    {
+        "Email": "huda.n@gmail.com",
+        "Username": "Huda",
+        "Gender": "F",
+        "Birthdate": "4/16/1993",
+        "GPA": "2.6"
+    },
+    {
+        "Email": "faisal.f@gmail.com",
+        "Username": "Faisal97",
+        "Gender": "M",
+        "Birthdate": "5/21/1997",
+        "GPA": "3.7"
+    },
+    {
+        "Email": "h.zaid@gmail.com",
+        "Username": "Haya_Z91",
+        "Gender": "F",
+        "Birthdate": "6/26/1991",
+        "GPA": "2.9"
+    },
+    {
+        "Email": "mazen.h@gmail.com",
+        "Username": "Mazen96",
+        "Gender": "M",
+        "Birthdate": "7/31/1996",
+        "GPA": "3.4"
+    }
+]
